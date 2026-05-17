@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+res_env
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac/Linux
+.DS_Store
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# PDF output
+output/*.pdf
+
+# Jupyter
+.ipynb_checkpoints/

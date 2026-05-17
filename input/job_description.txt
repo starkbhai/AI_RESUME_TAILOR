@@ -1,0 +1,44 @@
+AI Trading Analyst — String Trading Desk
+
+Company: String Metaverse Limited (BSE-listed | Web3, AI & HFT)
+
+Location: Hyderabad (On-site)
+
+Compensation: ₹50,000 – ₹150,000 per month (based on skill demonstration)
+
+Experience: 1–3 years | Open to exceptional freshers
+
+About String Metaverse
+
+String Metaverse Limited is a publicly listed company (BSE) operating across Gaming & AI, High-Frequency Trading, and Blockchain Infrastructure. Our trading desk runs automated strategies across crypto and US equity markets using a combination of in-house AI agents and human oversight.
+
+About the Role
+
+We are hiring analysts to operate, monitor, and optimize AI-driven trading strategies on the String Trading Desk. You will work alongside autonomous agents that execute strategies on Hyperliquid, Binance, Deribit, Tastytrade, and other venues — your job is to make those agents smarter, safer, and more profitable.
+
+This is not a discretionary trading role. You will not be placing trades on gut feel. You will be running models, reading their telemetry, diagnosing why they fail, and prompting AI systems to build better versions.
+
+What You'll Do
+
+Run and monitor multiple live trading strategies across US equities (via Tastytrade & Hyperliquid US stock perps), crypto perps, and options structures (PMCC, theta-gain diagonals, statistical arbitrage).
+Conduct post-mortem analysis on losing trades and underperforming strategies — identify whether failure was model assumption, market regime, execution, or risk parameter.
+Use LLMs (Claude, GPT, etc.) to rapidly prototype strategy variants, back test hypotheses, and generate diagnostic reports.
+Build and maintain reporting dashboards covering PnL attribution, drawdown analysis, Sharpe/Sortino, and strategy correlation.
+Translate observations into precise, testable hypotheses for the engineering team to implement.
+Participate in the human-in-the-loop approval queue for higher-risk trades.
+You Must Have
+
+Working understanding of mathematical models used in trading: mean reversion, momentum, volatility (IV/HV), Greeks (delta/gamma/theta/vega), basic options pricing, z-scores, correlation, and cointegration.
+Strong statistical analysis skills — comfort with distributions, hypothesis testing, regression, and reading a backtest report critically (not just looking at the Sharpe).
+Excellent prompt engineering skills — ability to break a vague trading idea into a sequence of precise instructions an AI can execute.
+Sharp reactive thinking — when a strategy breaks at 2 AM and the agent flags it, you can quickly form a working theory and decide whether to pause, adjust, or escalate.
+Analytical rigor — you ask "why" three times before you ask "what next".
+Comfort with Python, SQL, and at least one of: pandas, NumPy, SciPy, or Jupyter notebooks.
+Read and write English fluently (most documentation, research, and AI tooling is English-first).
+Nice to Have
+
+Prior exposure to options strategies (covered calls, spreads, diagonals).
+Experience with Hyperliquid, Binance, Deribit, or Tastytrade APIs.
+Background in CFA Level 1/2, FRM, statistics, applied mathematics, physics, or engineering.
+Familiarity with Bayesian methods, Monte Carlo simulation, or basic ML concepts.
+Open-source trading projects, Kaggle profile, or a public GitHub showing analytical work.
